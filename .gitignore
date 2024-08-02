@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-db/credntials.cjs
+db/credentials.cjs
 node_modules
 dist
 dist-ssr
